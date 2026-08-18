@@ -4,7 +4,7 @@
 - 사용자 인증 로그인 기능, 게시판 관리, 카카오 결제 시스템 통합 등의 기능을 구현. 
 - 각 기능은 MVC 패턴을 기반으로 구현됨.
 ### 🛠️ 기술 스택
-</div>
+</div>. 
     <div style="text-align: left;">
     <div> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Jsp-607396?style=flat-square&logo=Jsp&logoColor=white">
