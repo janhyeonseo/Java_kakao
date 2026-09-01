@@ -3,7 +3,7 @@
 - 쇼핑몰의 제품 관리와 결제 처리, 고객 관리 기능을 제공하는 웹 서비스.
 - 사용자 인증 로그인 기능, 게시판 관리, 카카오 결제 시스템 통합 등의 기능을 구현.
 - 각 기능은 MVC 패턴을 기반으로 구현됨.
-### 🛠️ 기술 스택
+### 🛠️ 기술 스택 
 </div>. 
     <div style="text-align: left;">
     <div> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
